@@ -1,5 +1,11 @@
 public class Hello{
     public static void main(String[] args){
-        System.out.println("Hellow new system!");
+        String s = "Summer";
+        System.out.println("Hellow new system! " + s);
+        
+
     }
+
+
+    
 }
