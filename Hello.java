@@ -8,7 +8,7 @@ public class Hello{
 
 
     private String getMessage() {
-        return "Hello Nikki";
+        return "Hello Nikki and John";
     }
     
 }
